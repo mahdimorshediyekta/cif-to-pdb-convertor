@@ -1,5 +1,6 @@
 Flask
 gunicorn
 requests
-biopython
 Flask-Cors
+biopython
+python-dotenv
